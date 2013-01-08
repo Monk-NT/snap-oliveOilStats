@@ -1,0 +1,10 @@
+dist
+log
+*.cabal
+*.hi
+*.chi
+*.o
+*.chs.h
+.ghci
+*.hs~
+site_key.txt
