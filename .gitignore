@@ -7,4 +7,5 @@ log
 *.chs.h
 .ghci
 *.hs~
+*.gitignore~
 site_key.txt
